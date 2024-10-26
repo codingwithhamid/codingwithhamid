@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/codingwithhamid/codingwithhamid/blob/master/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hamid_Dev_CEO</h1>
 <h3 align="center">I am a IT student from Pakistan</h3>
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
